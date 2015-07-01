@@ -47,3 +47,6 @@ matrix:
     - node_js: "0.8"
     - node_js: "0.6"
     - node_js: "0.4"
+cache:
+  directories:
+    - node_modules
