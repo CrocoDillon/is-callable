@@ -48,6 +48,7 @@ matrix:
     - node_js: "0.6"
     - node_js: "0.4"
 cache:
+  branch: md5deep
   directories:
     - node_modules
     - "${NVM_DIR}"
